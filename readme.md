@@ -7,6 +7,8 @@ you'll need the NDK installed
 
 If you are on any other distro you may use rustup to install needed targets
 
+TODO: can we use the *-clang binaries from the ndk? do we need the system llvm?
+
 ### Setup
 ```
 # Gentoo config:
