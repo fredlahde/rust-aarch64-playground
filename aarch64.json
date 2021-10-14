@@ -13,7 +13,7 @@
   "max-atomic-width": 128,
   "os": "android",
   "position-independent-executables": true,
-  "linker": "/home/pleb/Android/Sdk/ndk/23.0.7599858/NDK/arm64/bin/aarch64-linux-android-gcc",
+  "linker": "./NDK/arm64/bin/aarch64-linux-android-gcc",
   "pre-link-args": {
     "gcc": [
       "-Wl,--allow-multiple-definition"

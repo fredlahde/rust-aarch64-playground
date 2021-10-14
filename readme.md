@@ -18,6 +18,7 @@ rustc --print target-list
 ```bash
 # generate aarch64 android toolchain
 $NDK/build/tools/make_standalone_toolchain.py --api 30 --arch arm64 --install-dir NDK/arm64
+ln -s <NDK folder> NDK
 
 # set path to linux-android-gcc in aarch64.json as linker
 # build:
