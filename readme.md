@@ -29,6 +29,6 @@ NDK/arm64/bin/llvm-readelf --symbols target/aarch64/debug/libembed.so | grep foo
 ```
 
 ## resources
-https://doc.rust-lang.org/nomicon/ffi.html
-https://docs.rust-embedded.org/embedonomicon/custom-target.html
-https://mozilla.github.io/firefox-browser-architecture/experiments/2017-09-21-rust-on-android.html
+ - https://doc.rust-lang.org/nomicon/ffi.html
+ - https://docs.rust-embedded.org/embedonomicon/custom-target.html
+ - https://mozilla.github.io/firefox-browser-architecture/experiments/2017-09-21-rust-on-android.html
