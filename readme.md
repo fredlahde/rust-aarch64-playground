@@ -5,6 +5,8 @@ object on gentoo
 
 you'll need the NDK installed
 
+If you are on any other distro you may use rustup to install needed targets
+
 ### Setup
 ```
 # Gentoo config:
